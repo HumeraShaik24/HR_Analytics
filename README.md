@@ -70,7 +70,7 @@ This project supports HR in creating targeted strategies to reduce turnover and 
 
 ---
 
-## 📷 [Dashboard Sections](Dashboard/HR)
+## 📷 [Dashboard Sections](Dashboard/HR.png)
 
 > ### 🔹 Top Cards
 Summarize key HR KPIs: employee count, attrition rate, active employees, and average age.
